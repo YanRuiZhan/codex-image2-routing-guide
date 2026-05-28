@@ -1,4 +1,4 @@
-# ccswitch-image2-routing-guide
+# codex-image2-routing-guide
 
 让 Codex 在**普通对话**时继续走你当前正在使用的 API / 中转站，而在你**明确调用 `/image2` 或 `$image2`** 时，单独走你自己的图片生成中转站。
 
