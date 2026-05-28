@@ -1,0 +1,2 @@
+# ccswitch-image2-routing-guide
+codex使用image2生成图片时自动路由到另一中转站，聊天对话时走原中转站。由此可以在对话的任意位置使用/image2技能生成图片
