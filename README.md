@@ -22,14 +22,13 @@
 
 使用方法：
 
-1. 先把本仓库里的 `ccswitch-image2-routing-guide.md` 发给 Codex，或者让 Codex读取这个文件
-2. 再把下面这段提示词原样发给 Codex
-3. 按 Codex 的提示提供你自己的 `image2-env.txt` 路径
+1. 把下面这段提示词原样发给 Codex
+2. 按 Codex 的提示提供你自己的 `image2-env.txt` 路径
 
 ### 自动配置提示词
 
 ```text
-请按照我提供的这份文档，为我的 Codex 本地安装并配置一个 image2 技能：
+请按照我提供的这个项目（https://github.com/YanRuiZhan/codex-image2-routing-guide），为我的 Codex 本地安装并配置一个 image2 技能：
 
 - 技能名固定为 image2
 - 只在我明确调用 /image2 或 $image2 时使用
